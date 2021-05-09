@@ -1,0 +1,3 @@
+Podarilo sa dorobiť prácu na canvase ktory vykresluje editovany graf. Dosť velký chalange bol pre mňa spojazdniť ukladanie grafickej časti, kvoli kope bugov po ceste. Nakoniec som ale spokojny s tým v akom stave to je.
+Povodne mala aplikácia fungovať aj naopak, tj. z grafu na delta funkciu. Mal som aj beta-gama verziu, ktorá fungovala, ale vobec to nedávalo zmysel a bolo to velmi neintuitívne a nepáčilo sa mi to.
+Matúš Matok
