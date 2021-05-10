@@ -1,0 +1,9 @@
+V prvom rade vyjadrenie k reportom. Pomotalo sa číslovanie, takže som v číslovaní vynechal 7, takže reporty 8 a 9 su o 1 offsetnute. Žiaden nechýba, iba maju zlé názvy.
+Najvačšia chalange projektu, bolo implementovať stránku tak, aby vedela plynule prechádzať z edit modu do run modu, zachovávajúc všetky dáta vrátane globalneho JS objektu grafu. 
+Ďalej práca s databázou, hlavne čo sa týkalo grafického uloženia grafu do DB. Kedže som prvýkrat pracoval s JS aj s JSON, bolo to učenie pomedzi debugovanie. 
+Drvivá vačšina času išla na funkčnosť týchto inštancií. 
+V špecifikácií bolo, že má existovať funkcionalita, ktorá spraví z grafu delta funkciu. To sa ovšem ukázalo ako velmi hlúpy nápad. Mal som aj bežaicu verziu, avšak bolo to tak na hlavu postavené a neintuitívne, že som to odstránil.
+Vzhladom na komplexnosť časti edit and run, ostatné features ostali trochu v úzadí. V momentálnom stave su podla mojho názoru v akceptovatelnom stave, kde funckionalita je dostatočná, ale dala by sa ešte vyšperkovať.
+Čo sa týka času, tak hrubým odhadom som určite prekonal požiadavku na celkovú dlžku implementácie. Bolo to hlavne sposobené tým, že som veľa z tých vecí nepoznal a učil som sa ich za chodu. 
+Koniec koncov som spokojný so stavom projektu, aj s tým čo som sa popri práci na nom naučil.
+Matúš Matok
